@@ -1,0 +1,1 @@
+# Hadi.OCR.Console
