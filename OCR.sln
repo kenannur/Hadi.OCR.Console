@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ocr.Server.ConsoleApp", "Ocr.Server.ConsoleApp\Ocr.Server.ConsoleApp.csproj", "{2E4CAD05-4E24-4352-9D0E-741C4660F133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E4CAD05-4E24-4352-9D0E-741C4660F133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4CAD05-4E24-4352-9D0E-741C4660F133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4CAD05-4E24-4352-9D0E-741C4660F133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4CAD05-4E24-4352-9D0E-741C4660F133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E95B08AE-7C32-4BA1-BE65-9A599F39A4EE}
+	EndGlobalSection
+EndGlobal
